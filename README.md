@@ -13,3 +13,11 @@ I created dashboards using the dataset provided to allow stakeholders to answer 
 
 Here are the Dashboards that I have created using PowerBI:
 
+![image](https://github.com/Pranav-Vijitharan/Techscape-Dashboard/assets/122760008/f9da6bb6-c303-4dd9-84ba-f13b1720d237)
+
+![image](https://github.com/Pranav-Vijitharan/Techscape-Dashboard/assets/122760008/031460b2-3eeb-452e-bb0d-4f9cbb3fd7aa)
+
+![image](https://github.com/Pranav-Vijitharan/Techscape-Dashboard/assets/122760008/ea34f602-a085-4fdc-b8a6-cc5e41c39372)
+
+![image](https://github.com/Pranav-Vijitharan/Techscape-Dashboard/assets/122760008/18fb2f8a-9d5c-4c04-82be-4665d8f70d20)
+
