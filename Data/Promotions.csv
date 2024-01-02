@@ -1,0 +1,29 @@
+PromotionKey,PromotionName,DiscountPercent,StartDate,EndDate
+1,No Discount,0,1/1/2020,31/12/2022
+2,Singapore Spring Promotion,0.05,1/1/2020,31/3/2020
+3,National Day Promotion,0.1,1/7/2020,30/9/2020
+4,Christmas Promotion,0.2,1/11/2020,31/12/2020
+5,End of Year Holiday Promotion,0.15,1/11/2020,31/1/2021
+6,Singapore Spring Promotion,0.2,1/2/2020,30/4/2020
+7,Jun Holiday Promotion,0.1,1/5/2020,30/6/2020
+8,Valentines Day Promotion,0.07,1/2/2020,30/4/2020
+9,Holiday Promotion,0.1,1/8/2020,30/9/2020
+10,Children's Day Promotion,0.2,1/10/2020,31/1/2021
+11,Singapore Spring Promotion,0.05,1/1/2021,31/3/2021
+12,National Day Promotion,0.1,1/7/2021,30/9/2021
+13,Christmas Promotion,0.2,1/11/2021,31/12/2021
+14,End of Year Holiday Promotion,0.15,1/11/2021,31/1/2022
+15,Singapore CNY Promotion,0.2,1/2/2021,30/4/2021
+16,Jun Holiday Promotion,0.1,1/5/2021,30/6/2021
+17,Singapore Spring Promotion,0.07,1/2/2021,30/4/2021
+18,Holiday Promotion,0.1,1/8/2021,30/9/2021
+19,Special Holiday Promotion,0.2,1/10/2021,31/1/2022
+20,Singapore Spring Promotion,0.05,1/1/2022,31/3/2022
+21,National Day Promotion,0.1,1/7/2022,30/9/2022
+22,Christmas Promotion,0.2,1/11/2022,31/12/2022
+23,End of Year Holiday Promotion,0.15,1/11/2022,31/1/2023
+24,Singapore CNY Promotion,0.2,1/2/2022,30/4/2022
+25,Jun Holiday Promotion,0.1,1/5/2022,30/6/2022
+26,Valentines Day Promotion,0.07,1/2/2022,30/4/2022
+27,National Day Promotion,0.1,1/8/2022,1/9/2022
+28,Children's Day Promotion,0.2,1/10/2022,31/12/2022

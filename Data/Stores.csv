@@ -1,0 +1,25 @@
+StoreKey,GeographyKey,ChannelKey,StoreName,EmployeeCount,AreaSize
+1,101,1,Lim Treasures Store,17,462
+2,102,1,Whispering Sem Store,25,700
+3,103,1,Wood Willow Store,26,680
+4,104,1,Shun Velvet Store,19,455
+5,105,1,Engina Shan Store,33,560
+6,106,1,Rustic Merah Store,47,1125
+7,107,1,Timah Treasure Store,22,500
+8,108,3,Bez Splendor Store,17,460
+9,109,1,Changi Treasures Store,25,700
+10,110,1,Pasir Rarities Store,25,700
+11,111,1,Enchanted Tampiness Store,26,680
+12,112,1,Boon Kaleidoscope Store,33,560
+13,113,1,Batok Castle Store,47,1125
+14,114,1,Panjang Treasures Store,22,500
+15,115,1,Splendid Kang Store,17,462
+16,116,1,Mystique Clementi Store,25,700
+17,117,1,Ethereal Jurong Store,26,680
+18,118,1,Wanderlust Kio Store,33,560
+19,119,2,Hougang Curiosity Store,47,450
+20,120,2,Punggol Wonder Store,22,500
+21,121,2,Seng Echoes Store,17,460
+22,122,4,Pasir Ris Store,15,450
+23,123,4,Queenstown Store,12,551
+24,124,4,Rocher Store,17,900

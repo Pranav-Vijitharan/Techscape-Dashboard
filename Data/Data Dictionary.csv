@@ -1,0 +1,59 @@
+Data Stored in Stores.csv,,,
+StoreKey,,,Store key
+GeographyKey,,,Geography Key
+ChannelKey,,,Channel Key
+StoreName,,,Name of Store
+EmployeeCount,,,Number of employee in the store
+SellingAreaSize,,,Floor area of store
+,,,
+Data Stored in Promotions.csv,,,
+PromotionKey,,,Promotion Key
+PromotionName,,,Name of Promotion
+DiscountPercent,,,Percentage of Discount
+StartDate,,,Start date of promotion
+EndDate,,,End date of promotion
+,,,
+Data Stored in ProductSubCategory.csv,,,
+ProductSubcategoryKey,,,Product subcategory key
+ProductSubcategory,,,Product subcategory
+ProductCategoryKey,,,Product Category Key
+,,,
+Data Stored in ProductCategory.csv,,,
+ProductCategoryKey,,,Product Category Key
+ProductCategory,,,Product Category
+,,,
+Data Stored in Product.csv,,,
+Product Description,,,Description of product
+Manufacturer,,,Manufacturer of product
+BrandName,,,Brand of Product
+ClassName,,,Class Name
+UnitCost,,,Cost of one product
+UnitPrice,,,Price of one product
+ProductKey,,,Product Key
+ProductSubcategoryKey,,,Product Subcategory Key
+,,,
+Data Stored in Geography.csv,,,
+GeographyKey,,,Geography Key
+BranchLocation,,,Branch Location
+BranchRegion,,,Branch Region
+Longitude,,,Longitude of store
+Latitude,,,Latitude of store
+,,,
+Data Stored in Channel.csv,,,
+ChannelKey,,,Channel Key
+ChannelType,,,Type of channel
+,,,
+Data Stored in Sales.csv,,,
+SalesKey,,,Sales Key
+Date,,,Date of Sales
+channelKey,,,Channel Key
+StoreKey,,,Store Key
+ProductKey,,,Product Key
+PromotionKey,,,Promotion Key
+UnitCost,,,Unit Cost Price
+UnitPrice,,,Unit Selling Price
+SalesQuantity,,,Sales Quantity
+ReturnQuantity,,,Quantity of rejected/returned goods 
+TotalDiscountAmount,,,Amount (in dollars) of discount given
+TotalCost,,,Total Cost given by (SaleQuantity-ReturnQuantity) * UnitCost
+SalesAmount,,,Total Sales Price given by (SaleQuantity-ReturnQuantity) * UnitPrice - DiscountAmount
